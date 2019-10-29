@@ -1,0 +1,75 @@
+/*Atributos generales para la pagina*/
+
+
+
+/*Header y su contenido*/
+.cabeza{
+    background-color: #003B5C ;
+    width: 100%;
+    color: #00B5E2;
+    }
+.contHeader{
+    width: 100%;
+    height: 100%;
+    max-width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    }
+.escudo{
+    max-width: 50%;
+    display: flex;
+    align-items: center;
+    }
+.escudo img{
+    width: 35%;
+    margin-top: auto;
+    margin-bottom: auto;
+    }
+.title{
+    max-width: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 1vw;
+    font-weight: normal;
+    }
+ 
+
+/*footer*/
+footer{
+    position: absolute;
+    bottom: 0;
+    background-color: #003B5C ;
+    width: 100%;
+	height: 103px;
+    color: #00B5E2;
+    }
+.contenedorA{
+    width: 100%;
+    height: 100%;
+    max-width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    }
+.columna1{
+    max-width: 33%;
+    display: flex;
+    align-items: center;
+    }
+.columna1 img{
+    width: 50%;
+    }
+.columna2 {
+    max-width: 33%;
+    font-size: 1vw;
+    display: flex;
+    align-items: center;
+    }
+.columna3{
+    max-width: 33%;
+    font-size: 1vw;
+    display: flex;
+    align-items: center;
+    }
+

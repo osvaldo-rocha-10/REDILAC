@@ -1,0 +1,38 @@
+/* your styles go here */
+
+.ems{
+	color:  #00b5e2;
+}
+.subir{
+    padding: 5px 10px;
+    background: #003b5c;
+    color:#fff;
+    border:0px solid #fff;
+}
+ 
+.subir:hover{
+    color:#fff;
+    background: #00b5e2 ;
+}
+.boton_menu:hover{
+    color: #00b5e2;
+}
+#rd{
+    color: #00b5e2; 
+    text-decoration: none;
+}
+#rd:hover{
+    color:#003b5c;
+    background: #00b5e2;
+}
+.oculto{
+    display: none;
+}
+.boton_Excel{
+	background:#003b5c;
+	color: #00b5e2;
+	opacity: 0.3;
+	height:25px;
+}
+
+
